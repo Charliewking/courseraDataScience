@@ -1,0 +1,40 @@
+school_id,name,label,state,city,lat,long,liberal_arts,undergrad,enrollment
+1,University of Wisconsin-Madison,UWisc,WI,Madison,43.068888,-89.417725,1,7636,41654
+2,Ohio State University-Main Campus,OSU,OH,Columbus,40.000794,-83.013382,1,9317,55014
+3,Michigan State University,MSU,MI,East Lansing,42.714732,-84.523315,1,9083,47071
+4,University of Michigan-Ann Arbor,UMich,MI,Ann Arbor,42.274641,-83.739166,1,6949,41674
+5,University of Minnesota-Twin Cities,UMinn,MN,Minneapolis,44.975303,-93.233671,1,9560,51659
+6,Indiana University-Bloomington,IUB,IN,Bloomington,39.166803,-86.522484,1,8547,42347
+7,University of Illinois at Urbana-Champaign,UIUC,IL,Champaign,40.12009,-88.26416,1,8361,43881
+8,University of Iowa,UIowa,IA,Iowa City,41.652393,-91.543579,1,5712,28987
+9,University of Missouri-Columbia,UMisso,MO,Columbia,38.938716,-92.325668,1,6981,31237
+10,Miami University-Oxford,,OH,Oxford,39.512517,-84.784241,1,3584,16884
+11,Ohio University-Main Campus,,OH,Athens,39.326131,-82.102633,1,5001,22647
+12,Grand Valley State University,,MI,Allendale,42.963583,-85.680227,0,5314,24408
+13,Western Michigan University,,MI,Kalamazoo,42.281373,-85.607872,1,4969,24576
+14,Purdue University-Main Campus,,IN,West Lafayette,40.427349,-86.915417,1,8175,41052
+15,DePaul University,,IL,Chicago,41.92476,-87.655277,1,2531,25072
+16,University of Chicago,UChicago,IL,Chicago,41.789041,-87.600088,1,1398,15094
+17,Iowa State University,,IA,Ames,42.023283,-93.645401,1,6640,27945
+18,University of Wisconsin-Milwaukee,,WI,Milwaukee,43.075659,-87.884274,1,6144,30418
+19,University of Cincinnati-Main Campus,,OH,Cincinnati,39.135253,-84.511814,1,5595,31134
+20,University of Kentucky,,KY,Lexington,38.038898,-84.503403,1,5323,26295
+21,University of Illinois at Chicago,,IL,Chicago,41.871606,-87.651672,1,4645,26840
+22,Illinois State University,,IL,Normal,40.505446,-89.005737,1,5011,21184
+23,University of Notre Dame,,IN,Notre Dame,41.677015,-86.248169,1,2182,11816
+24,Northwestern University,,IL,Evanston,42.045213,-87.687378,1,2528,19853
+25,Loyola University Chicago,,IL,Chicago,41.997263,-87.659225,1,2666,15879
+26,Ball State University,,IN,Muncie,40.203002,-85.407372,1,5314,21401
+27,Kent State University Kent Campus,,OH,Kent,41.162114,-81.342773,1,5286,25127
+28,Washington University in St Louis,WashU,MO,Saint Louis,38.634439,-90.263157,1,1914,13575
+29,Wayne State University,,MI,Detroit,42.498175,-83.379707,1,5284,31786
+30,Indiana University-Purdue University-Indianapolis,,IN,Indianapolis,39.770548,-86.168518,1,5043,30383
+31,Northern Illinois University,,IL,Dekalb,41.936317,-88.773651,1,5178,24424
+32,Southern Illinois University Carbondale,,IL,Carbondale,37.707115,-89.226151,1,2450,20350
+33,Missouri State University,,MO,Springfield,37.138425,-93.262939,0,5666,20371
+34,Central Michigan University,,MI,Mount Pleasant,43.583189,-84.776602,1,5453,27247
+35,University of Wisconsin-Eau Claire,,WI,Eau Claire,44.797429,-91.505041,0,2750,11216
+36,Bowling Green State University-Main Campus,,OH,Bowling Green,41.368564,-83.633423,1,3893,17309
+37,Truman State University,,MO,Kirksville,40.185168,-92.581787,0,1496,5781
+38,University of Louisville,,KY,Louisville,38.248966,-85.749321,1,3587,21016
+40,University of Wisconsin-La Crosse,,WI,La Crosse,43.816136,-91.230555,0,2379,10009
